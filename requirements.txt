@@ -1,0 +1,12 @@
+pydantic-ai
+pydantic
+langfuse
+kitaru[pydantic-ai,local,openai]>=0.18.0
+zenml[local]>=0.95.1
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+# Future integrations:
+# slack_sdk
