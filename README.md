@@ -84,8 +84,8 @@ AgentFlow/
 
 ```bash
 # Clone and enter the repo
-git clone https://github.com/YOUR_USERNAME/AgentFlow.git
-cd AgentFlow
+git clone https://github.com/memona008/agentic-article-pipeline.git
+cd agentic-article-pipeline
 
 # Create virtual environment
 python3 -m venv .venv
